@@ -1,4 +1,4 @@
-package httpagg
+package httpaggBanco
 
 import (
 	"encoding/json"
