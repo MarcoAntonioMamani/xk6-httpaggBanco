@@ -1,4 +1,4 @@
-module github.com/gpiechnik2/xk6-httpagg
+module github.com/MarcoAntonioMamani/xk6-httpaggBanco
 
 go 1.19
 
